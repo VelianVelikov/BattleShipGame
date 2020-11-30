@@ -1,0 +1,6 @@
+Liliput, 15, 0
+Velian, 6, 4
+John, 2, 9
+Mathew, 0, 11
+Philip, 8, 2
+Anastasia, 1, 1

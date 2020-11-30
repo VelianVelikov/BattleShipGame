@@ -1,0 +1,11 @@
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe.config
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.exe
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\bin\Debug\BattleShipGame.pdb
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csprojAssemblyReference.cache
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Properties.Resources.resources
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csproj.GenerateResource.cache
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.exe
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.pdb
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Home.resources
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.ShipPlacement.resources
+C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Battlefield.resources
