@@ -4,7 +4,8 @@ This is a C# game project that simulates the classic Battleship Game. It is play
 
 ![alt tag](screenshots/home.png)
 ![alt tag](screenshots/shipselection.png)
-![alt tag](screenshots/gameplay.png)
+![alt tag](screenshots/gameplay1.png)
+![alt tag](screenshots/gameplay2.png)
 
 [Full rules of the game available in the Option menu]
 The game consists of two levels: easy and hard. It starts with the Home screen where the user can enjoy the background music, enter his/her name, choose level of difficulty and have a glance at the League Table. The data of the League Table is read and written to a .TXT file, and if the name is already listed there the user can continue playing under this name and increment the win/lose counter. The game also has a drop-down menu with variable options throughout the different form windows: Import League Table, Clear League Table, How to Play, About, Go to Home screen and Exit.  
