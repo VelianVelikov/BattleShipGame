@@ -2,9 +2,9 @@
 
 This is a C# game project that simulates the classic Battleship Game. It is played by a human user and the computer itself. The game is played on two grids, one for each player. On one grid the player arranges 5 different ships placements and on the other attacks and tries to sink all of the opponent’s ships. The game ends when one of the players sinks all of the ships that belong to the opponent.
 
-![alt tag](img/home.png)
-![alt tag](img/shipselection.png)
-![alt tag](img/gameplay.png)
+![alt tag](screenshots/home.png)
+![alt tag](screenshots/shipselection.png)
+![alt tag](screenshots/gameplay.png)
 
 [Full rules of the game available in the Option menu]
 The game consists of two levels: easy and hard. It starts with the Home screen where the user can enjoy the background music, enter his/her name, choose level of difficulty and have a glance at the League Table. The data of the League Table is read and written to a .TXT file, and if the name is already listed there the user can continue playing under this name and increment the win/lose counter. The game also has a drop-down menu with variable options throughout the different form windows: Import League Table, Clear League Table, How to Play, About, Go to Home screen and Exit.  
