@@ -9,3 +9,6 @@ C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGa
 C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Home.resources
 C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.ShipPlacement.resources
 C:\Users\velianvelikov\OneDrive - University of Dundee\Apps\AC22005\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.Battlefield.resources
+C:\Users\Velian Velikov\Documents\GitHub\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.csprojAssemblyReference.cache
+C:\Users\Velian Velikov\Documents\GitHub\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.exe
+C:\Users\Velian Velikov\Documents\GitHub\BattleShipGame\BattleShipGame\obj\Debug\BattleShipGame.pdb
