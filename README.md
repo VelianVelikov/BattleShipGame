@@ -3,7 +3,7 @@
 This is a C# game project that simulates the classic Battleship Game. It is played by a human user and the computer itself. The game is played on two grids, one for each player. On one grid the player arranges 5 different ships placements and on the other attacks and tries to sink all of the opponent’s ships. The game ends when one of the players sinks all of the ships that belong to the opponent.
 
 ![alt tag](screenshots/home.png)
-![alt tag](screenshots/shipselection.png)
+![alt tag](screenshots/shipplacement.png.png)
 ![alt tag](screenshots/gameplay1.png)
 ![alt tag](screenshots/gameplay2.png)
 
